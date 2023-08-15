@@ -1,4 +1,4 @@
-module github.com/umbracle/fastrlp
+module github.com/yellomoon/fastrlp
 
 go 1.18
 
